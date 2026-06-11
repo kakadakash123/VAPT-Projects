@@ -51,3 +51,10 @@ The assessment followed a structured VAPT approach:
 ## Screenshots
 
 Project evidence and testing screenshots are available in the `Screenshots` folder.
+
+## Report
+
+The complete VAPT assessment report can be accessed here:
+
+[View Report](./Report/ZeroBank_VAPT_Report.pdf)
+
